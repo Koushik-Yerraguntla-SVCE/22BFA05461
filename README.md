@@ -2,7 +2,8 @@
 Mini-Project In C
 
 
-#sample Input and Output
+sample Input and Output
+
 Enter Account Number: 1001
 Enter Account Holder's Name: Alice Smith
 
